@@ -77,7 +77,7 @@
         <div class="form-group">
             <label>How did you become interested in the university?</label>
             <div class="form-check">
-                <input class="form-check-input" type="radio" name="interest" value="Friends" id="interestFriends" required>
+                <input class="form-check-input" type="radio" name="interest" value="Friends" id="interestFriends">
                 <label class="form-check-label" for="interestFriends">Friends</label>
             </div>
             <div class="form-check">
