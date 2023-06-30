@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Student Survey version 1.0</title>
+    <title>Student Survey version 1.0.0</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 </head>
 <body style="background-image: linear-gradient(#33adff, #7300e6);">
